@@ -4,7 +4,8 @@ public class Main {
     public static void main(String[] args) {
         int ticketPrice = 20538; // стоимость одного билета;
 
-        int rub = 20; // рублей для 1 бонусной мили
+        int bonus = 1; // миль
+        int rub = 20; // рубли
         int bonusTotal  = 1026; // миль
 
         System.out.println("Бонусов будет начислено за покупку одного билета:");
