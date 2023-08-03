@@ -6,6 +6,7 @@ public class Main {
 
         int bonus = 1; // миль
         int rub = 20; // рубли
+        int bonusTotal  = 1026; // миль
 
         System.out.println("Бонусов будет начислено за покупку одного билета:");
         System.out.println((ticketPrice / rub) + " миль");
